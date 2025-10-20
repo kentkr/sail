@@ -5801,6 +5801,7 @@ dependencies = [
  "sail-python-udf",
  "sail-sql-analyzer",
  "serde",
+ "serde_json",
  "thiserror",
  "tokio",
  "tonic",
